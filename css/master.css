@@ -1,0 +1,33 @@
+/* Style Properties for Dice Game; */
+
+body {
+  font-family: "Mochiy Pop P One", sans-serif;
+}
+
+header,
+article,
+img,
+.article-row2 {
+  padding: 40px 0;
+}
+
+.heading,
+.player-info,
+.dice-roll,
+.article-row2,
+.footer-row1 {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  color: #721b65;
+}
+
+h3 {
+  color: #29c7ac;
+}
+
+.footer-row1 {
+  padding: 10px 0;
+}
